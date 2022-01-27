@@ -1,0 +1,3 @@
+Testes de unidade são escritos na perspectiva dos programadores, eles são criados para garantir que um determinado método (unidade) de uma classe funciona da maneira correta. Já testes funcionais são escritos na perspectiva de um usuário do sistema, eles asseguram que o sistema desenvolvido funciona da maneira que o usuários esperam.
+
+Além disso, testes de unidade são pequenos e independentes, enquanto que testes funcionais lidam com diversos métodos/objetos pertencentes a arquitetura do sistema.
